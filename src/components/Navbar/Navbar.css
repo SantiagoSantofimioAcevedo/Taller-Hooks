@@ -1,0 +1,9 @@
+.ulNav{
+    display: flex;
+    gap: 1.1rem;
+    list-style: none;
+    color: black;
+}
+.ulNav:hover {
+    cursor: pointer;
+}
